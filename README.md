@@ -1,9 +1,3 @@
-## 💫 About Me:
-🔭 I’m currently working on 
-* Reinforcement Learning
-* IoT Devices and Platforms
-* Topics in Metaverse
-
 ## 🏫 Education
 * 112/9～  
 Institute of Network Engineering, National Yang Ming Chiao Tung University
@@ -15,6 +9,16 @@ Department of Computer Science, National PingTung University
 * Arduino, Nvidia Jetson Nano, RaspberryPI, BananaPI
 * Lego EV3, VEXv5
 
+<!-- ## 💫 About Me:
+🔭 I’m currently working on 
+* Data Science
+* Cloud Native Development
+* 
+
+* Reinforcement Learning
+* IoT Devices and Platforms
+* Topics in Metaverse
+ -->
 <!---
 ## 🔬 Work
 * 2022/08～now
