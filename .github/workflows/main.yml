@@ -44,7 +44,8 @@ jobs:
           template: terminal
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, metadata
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Taipei
 
 
 
